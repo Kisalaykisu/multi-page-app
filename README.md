@@ -20,7 +20,7 @@ wget https://github.com/Kisalaykisu/multi-page-app/blob/main/requirements.txt
 
 Pip install libraries
 
-  pip install -r requirements.txt
+     pip install -r requirements.txt
 
 Download and unzip contents from GitHub repo
 
