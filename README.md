@@ -18,7 +18,7 @@ conda activate multipage
 Download requirements.txt file
 
 ```
-wget https://github.com/Kisalaykisu/multi-page-app/blob/main/requirements.txt
+wget  https://github.com/Kisalaykisu/multi-page-app/blob/main/requirements.txt
 
 ```
 
