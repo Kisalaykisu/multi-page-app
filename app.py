@@ -6,7 +6,6 @@ app = MultiApp()
 
 st.markdown("""
 # Multi-Page App
-
 This multi-page app is developed by Kisalay Srivastava
 
 """)
