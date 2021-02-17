@@ -1,15 +1,5 @@
 # multi-page-app
 
-# Watch the tutorial video
-[How to Make a Multi-Page Web App | Streamlit #16](https://youtu.be/nSw96qUbK9o)
-
-<a href="https://youtu.be/nSw96qUbK9o"><img src="http://img.youtube.com/vi/nSw96qUbK9o/0.jpg" alt="How to Make a Multi-Page Web App | Streamlit #16" title="How to Make a Multi-Page Web App | Streamlit #16" width="400" /></a>
-
-# Demo
-
-Launch the web app:
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/multi-page-app/main/app.py)
 
 # Reproducing this web app
 To recreate this web app on your own computer, do the following.
@@ -28,7 +18,7 @@ conda activate multipage
 Download requirements.txt file
 
 ```
-wget https://raw.githubusercontent.com/dataprofessor/ml-auto-app/main/requirements.txt
+wget https://github.com/Kisalaykisu/multi-page-app/blob/main/requirements.txt
 
 ```
 
@@ -39,7 +29,7 @@ pip install -r requirements.txt
 
 ### Download and unzip this repo
 
-Download [this repo](https://github.com/dataprofessor/multi-page-app/archive/main.zip) and unzip as your working directory.
+Download [this repo](https://github.com/Kisalaykisu/multi-page-app.git) and unzip as your working directory.
 
 ###  Launch the app
 
